@@ -1,0 +1,30 @@
+body{
+ text-align:center;
+background-color:aliceblue;
+}
+div{
+margin-top:15px;    
+}
+.image-section{
+display:flex;
+justify-content:center;    
+}
+.section-style{
+right-margin:15px;
+left-margin:15px;
+background-color:white;
+font-size:20px;
+width:200px;
+height:300px;    
+}
+#image1{
+width:200px;
+height:300px;    
+}
+#image2{
+ width:200px;
+height:300px;   
+}
+p{
+font-size:30px;    
+}
